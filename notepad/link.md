@@ -188,6 +188,7 @@
 ## [best-chinese-front-end](https://github.com/FrankFang/best-chinese-front-end-blogs)
 ## [alert插件](http://sc.chinaz.com/)
 ## [layerhttp://layer.layui.com](https://github.com/sentsin/layer)
+## [Hexo](https://www.cnblogs.com/shwee/p/11421156.html)
 https://github.com/electron/electron-api-demos
 
 http://www.css88.com/doc/webpack/
